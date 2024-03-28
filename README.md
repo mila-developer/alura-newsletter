@@ -1,89 +1,36 @@
----
+# Alura Newsletter - React com TailwindCSS
 
-# Alura-Newsletter
+Este repositório contém os projetos e códigos desenvolvidos durante o curso "React com TailwindCSS: Estilizando Componentes", oferecido pela Alura.
 
-Este é um projeto em React com Tailwind CSS para criar uma newsletter. O projeto inclui formulários, cards, botões e outros componentes para uma experiência de usuário agradável e interativa.
+## Sobre o Curso
 
-## Pré-requisitos
+Neste curso, exploramos os fundamentos do React e do TailwindCSS, duas tecnologias amplamente utilizadas no desenvolvimento de interfaces web modernas. Através de aulas práticas e exemplos reais, aprendemos a estilizar componentes React de forma eficiente e consistente utilizando o TailwindCSS, além de dominar técnicas avançadas de design e animação.
 
-Antes de começar, certifique-se de ter o Node.js e o npm instalados em sua máquina.
+## Projetos
 
-## Instalação
+Neste repositório, você encontrará os seguintes projetos desenvolvidos ao longo do curso:
 
-1. Clone este repositório:
+1. **Alura Newsletter:** Um projeto prático onde aplicamos os conceitos aprendidos para criar uma newsletter responsiva e visualmente atraente utilizando React e TailwindCSS.
 
-```
-git clone https://github.com/seu-usuario/alura-newsletter.git
-```
+## Como Utilizar
 
-2. Navegue até o diretório do projeto:
+Para utilizar os projetos contidos neste repositório, siga estas etapas:
 
-```
-cd alura-newsletter
-```
-
-3. Instale as dependências:
+1. Clone este repositório para o seu ambiente local utilizando o seguinte comando:
 
 ```
-yarn install
+git clone https://github.com/mila-developer/alura-newsletter.git
 ```
 
-4. Inicie o servidor de desenvolvimento:
+2. Navegue até o diretório do projeto desejado.
 
-```
-yarn dev
-```
+3. Siga as instruções contidas no arquivo README de cada projeto para configurar e executar a aplicação localmente.
 
-5. Abra o navegador e acesse `http://localhost:3000` para ver o projeto em funcionamento.
+## Contribuição
 
-## Tecnologias utilizadas
+Se você encontrar algum problema ou tiver sugestões para melhorar os projetos deste repositório, sinta-se à vontade para abrir uma **issue** ou enviar um **pull request**. Sua contribuição é muito bem-vinda!
 
-- React
-- Tailwind CSS
+## Contato
 
-## Estrutura do projeto
-
-O projeto está estruturado da seguinte maneira:
-
-```
-/node_modules
-/public
-  example.jpeg
-/src
-  /assets
-  /components
-    /Article
-    /ArticleList
-    /Form
-    /Header
-    /Input
-    /ToggleTheme
-  App.jsx
-  index.css
-  main.jsx
-.eslintrc.cjs
-.gitignore
-artciles.json
-index.html
-package.json
-postcss.config.js
-README.md
-tailwind.config.js
-vite.config.js
-yarn.lock
-
-```
-
-## Contribuindo
-
-Sinta-se à vontade para contribuir com este projeto. Basta seguir estes passos:
-
-1. Faça um fork do projeto
-2. Crie uma nova branch (`git checkout -b feature/nova-feature`)
-3. Faça commit das suas alterações (`git commit -am 'Adicionando nova feature'`)
-4. Faça push para a branch (`git push origin feature/nova-feature`)
-5. Crie um novo Pull Request
-
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
+- [LinkedIn](https://www.linkedin.com/in/camila-lyra-abreu)
+- [E-mail](mailto:camilalyra.abreu@gmail.com)
